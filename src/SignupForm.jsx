@@ -3,7 +3,7 @@ import React from "react";
 import { useForm } from "react-hook-form";
 import { Link } from "react-router-dom";
 import logo from "./assets/logo.jpg";
-
+//this is a functional component
 function SignUpForm() {
   const {
     register,
