@@ -1,0 +1,112 @@
+{
+  "logins": [
+    {
+      "id": "77be",
+      "name": "Naveen Kumar Palle",
+      "phone": "0970515539",
+      "gender": "Male",
+      "email": "venkateshjonnakuti541@gmail.com",
+      "password": "123456",
+      "role": "Nurse"
+    },
+    {
+      "id": "b6af",
+      "name": "vamsi",
+      "phone": "8317638396",
+      "gender": "Male",
+      "email": "20645a02b9@vaagdevi.edu.in",
+      "password": "422331",
+      "role": "Nurse"
+    },
+    {
+      "id": "9773",
+      "name": "venkatesh",
+      "phone": "09705155370",
+      "gender": "Male",
+      "email": "kartheek.sarangi97051@gmail.com",
+      "password": "73563",
+      "role": "Patient"
+    },
+    {
+      "id": "cce1",
+      "name": "Ravi kumar",
+      "phone": "09705155373",
+      "gender": "Male",
+      "email": "Ravi.sarangi97051@gmail.com",
+      "password": "98723",
+      "role": "Doctor"
+    },
+    {
+      "id": "b173",
+      "name": "Abhi",
+      "phone": "98765432876",
+      "gender": "Male",
+      "email": "Ravi.sarangi97051@gmail.com",
+      "password": "4353253",
+      "role": "Nurse"
+    },
+    {
+      "id": "a6d0",
+      "name": "SARANGI ",
+      "phone": "09705051553",
+      "gender": "Male",
+      "email": "20645a02b9com@vaagdevi.edu.in",
+      "password": "87655",
+      "role": "Patient"
+    },
+    {
+      "id": "e3d5",
+      "name": "kumar",
+      "phone": "9848534985",
+      "gender": "Male",
+      "email": "20645a02b9@vaagdevi.edu.in",
+      "password": "495851",
+      "role": "Doctor"
+    },
+    {
+      "id": "a388",
+      "name": "vinay",
+      "phone": "9000831731",
+      "gender": "Male",
+      "email": "venkateshjonnakuti35@gmail.com",
+      "password": "121221",
+      "role": "Doctor"
+    },
+    {
+      "id": "f0a5",
+      "name": "vamsi kumar",
+      "phone": "9000832731",
+      "gender": "Male",
+      "email": "Ravi.sarangi97051@gmail.com",
+      "password": "111111",
+      "role": "Doctor"
+    },
+    {
+      "id": "3441",
+      "name": "venky",
+      "phone": "9848534985",
+      "gender": "Male",
+      "role": "Patient",
+      "email": "venkateshjonnakuti54@gmail.com",
+      "password": "222222"
+    },
+    {
+      "id": "18ea",
+      "name": "VenkyBro",
+      "phone": "0970515537",
+      "gender": "Male",
+      "role": "Patient",
+      "email": "venkybro@.com",
+      "password": "111111"
+    },
+    {
+      "id": "8f3b",
+      "name": "Vinay Kumar",
+      "phone": "9705145622",
+      "gender": "Male",
+      "role": "Doctor",
+      "email": "venkateshjonnakuti@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
