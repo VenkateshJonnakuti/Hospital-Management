@@ -2,7 +2,7 @@
 import React from "react";
 import { useForm } from "react-hook-form";
 import { useNavigate, Link } from "react-router-dom";
-import logo from "./assets/logo.jpg";
+import logo from "./assets/logo1.jpg";
 // LoginPage
 function LoginPage() {
   const {
